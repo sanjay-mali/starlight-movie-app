@@ -1,0 +1,1 @@
+export const IMAGE_NOT_FOUND = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fepaper.thesangaiexpress.com%2F&psig=AOvVaw3SsY4QztAfZ9COVlI4qy9L&ust=1710268796757000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPCynPbt7IQDFQAAAAAdAAAAABAE";
